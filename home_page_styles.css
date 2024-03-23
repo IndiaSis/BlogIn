@@ -1,0 +1,62 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.github, .linkedin{
+    opacity: 85%;
+    margin-right: 5px;
+}
+.github, .linkedin:hover{
+    opacity: 1;
+}
+
+.end{
+    background-color: #E5E4E2;
+    
+}
+
+.Subscribe{
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+
+
+ 
+ 
+ .header, .podcasts{
+    font-family: "Yanone Kaffeesatz";
+	font-size: 50px;
+	display: flex;
+    justify-content: center;
+}
+
+.image{
+    filter: brightness(50%);
+}
+
+
+
+.blogin{
+    margin-bottom: 20px;
+    font-family: "Yanone Kaffeesatz";
+}
+
+.description{
+    font-family:"Yanone Kaffeesatz";
+}
+
+ 
+
+.card{
+    opacity: 0.8;
+    
+    
+}
+
+.card:hover{
+    opacity: 1;
+    filter: blur(0px);
+}
+
+
+
