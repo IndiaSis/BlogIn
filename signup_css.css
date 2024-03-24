@@ -1,0 +1,44 @@
+.signup{
+    font-size: 50px;
+    font-family: "Yanone Kaffeesatz";
+}
+
+.input{
+    border: none;
+    margin-left: 20px;
+    margin-top: 4px;
+    font-size: 18px;
+    display: inline-flex;
+    background-color: #E5E4E2;
+}
+
+.Terms{
+    text-decoration: underline;
+    font-weight: bolder;
+
+}
+
+.agree{
+    padding-left: 10px;
+}
+
+.register{
+    opacity: 0.9;
+    padding: 15px;
+}
+
+hr.new2{
+    width: 95%;
+    border-top: 3px solid black;
+}
+
+.login{
+    height: 500px;
+    width: 600px;
+}
+
+.hello{
+    background-color: #E5E4E2;
+}
+
+
